@@ -1,5 +1,17 @@
 # M5 - Kenzie Buster
 
+Nesse projeto foi feito a criação de uma aplicação para gerenciar usuários, filmes e compras, incluindo autenticação e permissionamento de rotas para diferentes tipos de usuário.
+- Configurar a estrutura do projeto, incluindo .gitignore, venv, requirements.txt;
+- Customizar usuario com base no AbstractUser;
+- Registrar models no Django Admin;
+- Serializers convencionais;
+- Validação customizada;
+- Sobrescrita de métodos de serializers;
+- Proteção de rotas via autenticação JWT e custom permissions do Django Rest Framework;
+- Tabela Pivo customizada;
+- Campos de escolha para atributos de model;
+- Paginação com APIView;
+
 ## Instalação dos pacotes de teste
 
 - Verifique se os pacotes `pytest` e/ou `pytest-testdox` estão instalados globalmente em seu sistema:
