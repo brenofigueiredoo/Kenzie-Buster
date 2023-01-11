@@ -1,6 +1,6 @@
 # M5 - Kenzie Buster
 
-Nesse projeto foi feito a criação de uma aplicação para gerenciar usuários, filmes e compras, incluindo autenticação e permissionamento de rotas para diferentes tipos de usuário.
+Nesse projeto foi feita a criação de uma aplicação para gerenciar usuários, filmes e compras, incluindo autenticação e permissionamento de rotas para diferentes tipos de usuário.
 - Configurar a estrutura do projeto, incluindo .gitignore, venv, requirements.txt;
 - Customizar usuario com base no AbstractUser;
 - Registrar models no Django Admin;
